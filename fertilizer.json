@@ -1,0 +1,37 @@
+{
+    "fertilizer": [
+         {
+            "name": "Phosphorus",
+            "componet": "Potassium sulfate, Potassium-magnesium sulfate (K-mag or Sul-Po-Mag), Potassium thiosulfate, Potassium nitrate",
+            "unit": "20kg",
+            "Poster": "https://images.unsplash.com/photo-1565273975921-c884f2b703df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZmVydGlsaXplcnMlMjBpbiUyMGElMjBzYWNrfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+        }, 
+    
+        {
+            "name": "Potassium",
+            "componet": "Potassium sulfate, Potassium-magnesium sulfate (K-mag or Sul-Po-Mag), Potassium thiosulfate, Potassium nitrate",
+            "unit": "20kg",
+            "Poster": "https://images.unsplash.com/photo-1565273975921-c884f2b703df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZmVydGlsaXplcnMlMjBpbiUyMGElMjBzYWNrfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+        },  
+        {
+           "name": "Compound fertilizers",
+           "componet": "nitrogen, phosphorus, and potassium.",
+           "unit": "20kg", 
+           "Poster": "https://images.unsplash.com/photo-1565273975921-c884f2b703df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZmVydGlsaXplcnMlMjBpbiUyMGElMjBzYWNrfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+        }, 
+        {
+            "name": "Nitrogen fertilizer",
+            "componet": "ammonia, nitric acid, ammonium nitrate, and urea",
+            "unit": "20kg",
+            "Poster": "https://images.unsplash.com/photo-1565273975921-c884f2b703df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZmVydGlsaXplcnMlMjBpbiUyMGElMjBzYWNrfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+        },
+          {
+           "name": "Calcium fertilizers",
+           "componet": "nitrogen, phosphorus, and potassium.",
+           "unit": "20kg", 
+           "Poster": "https://images.unsplash.com/photo-1565273975921-c884f2b703df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZmVydGlsaXplcnMlMjBpbiUyMGElMjBzYWNrfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+        }
+        
+    ]
+    
+}

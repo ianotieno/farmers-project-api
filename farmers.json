@@ -1,0 +1,76 @@
+{
+    "Farmers": [
+        {
+            "name": "Munene A",
+            "Region": "Uasin Gishu",
+            "Farm acres": "20"
+    
+        },
+    
+        {
+            "name": "Munene B",
+            "Region": "Muranga",
+            "Farm acres": "10"
+        },   
+    
+        {
+           "name": "Munene C",
+           "Region": "Nyeri",
+           "Farm acres":"5"
+        },
+        {
+            "name": "Munene D",
+            "Region": "Meru",
+            "Farm acres": "1"
+        },
+        {
+            "name": "Yellow A",
+            "Region": "kakamega",
+            "Farm acres": "5"
+    
+        },
+    
+        {
+            "name": "Red B",
+            "Region": "kericho",
+            "Farm acres": "4"
+        },   
+    
+        {
+           "name": "Blue C",
+           "Region": "Bomet",
+           "Farm acres":"6"
+        },
+        {
+            "name": "Pink D",
+            "Region": "Nairobi",
+            "Farm acres": "7"
+        },
+    
+        {
+            "name": "Akinyi Njer",
+            "Region": "Uasin Gishu",
+            "Farm acres": "8"
+    
+        },
+    
+        {
+            "name": "Otieno Ian",
+            "Region": "Muranga",
+            "Farm acres": "9"
+        },   
+    
+        {
+           "name": "Brian Otieno",
+           "Region": "Moringa",
+           "Farm acres":"11"
+        },
+        {
+            "name": "Munene Agutu",
+            "Region": "Hellen",
+            "Farm acres": "0.5"
+        }
+    ]
+    
+}
+    
