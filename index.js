@@ -58,7 +58,7 @@ document.querySelector('.btnsearch').addEventListener('click', function (event) 
       var resultsContainer = document.getElementById('results');
       resultsContainer.style.display = "block";
       var filteredData = data.fertilizer.filter(item => item.name.toLowerCase().includes(searchTerm.toLowerCase()));
-      var html = `<table><tr><th>Name</th><th>Component</th><th>Unit</th><th>Poster</th></tr>`;
+      var html = `<table><tr><th>Name</th><th>Component</th><th>Unit</th><th>Poster</th><th>submit</th></tr>`;
       filteredData.forEach(item => {
         html += `<tr>
             <td>${item.name}</td>
