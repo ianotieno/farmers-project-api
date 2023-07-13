@@ -181,7 +181,7 @@ padding-bottom: 4px;
     color:rgb(247, 243, 243) ;
     cursor: pointer;
     font-size: 1.1em;
-    margin: 0px 0px 0px 150px;
+    margin: 0px 0px 0px 0px;
     font-weight: 500;
 }
 .centre button:hover{
@@ -198,6 +198,7 @@ padding-bottom: 4px;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 10px;
     overflow: hidden;
     transform: scale(0);
     transition: transform .5s easez, height .2s ease;
@@ -242,7 +243,7 @@ padding-bottom: 4px;
     cursor: pointer;
     background-color: black;
     color: white;
-    margin-bottom:10px;
+    margin-bottom:100px;
     font-size: 1em;
     
 }
@@ -299,7 +300,7 @@ padding-bottom: 4px;
     font-family: monospace;
     font-size: 25px;
     text-align: left;
-    margin: 0px 100px 0px 50px;
+    margin: 0px 150px 0px 50px;
   }
   
   .results-container th {
@@ -318,7 +319,7 @@ padding-bottom: 4px;
     left: 50%;
     transform: translate(-50%, -50%);
   }
-  .align button{
+  .centre .btnregistration-popup{
     width: 150px;
     height: 40px;
     background: grey ;
@@ -328,6 +329,6 @@ padding-bottom: 4px;
     color:rgb(247, 243, 243) ;
     cursor: pointer;
     font-size: 1.1em;
-    margin: 0px 50px 0px 600px; 
+    margin: 150px 0px 0px 160px;
     font-weight: 500;
 }
